@@ -1,5 +1,7 @@
 # Quiz App
 
+A simple and interactive quiz application built with React. This app allows users to take quizzes on various topics, track their scores, and review their answers. It's designed with a clean and user-friendly interface, making it easy to create and manage quizzes. Ideal for educators, students, or anyone looking to test their knowledge.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Running locally
