@@ -29,3 +29,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Features
+
+- [x] Answer questions and continue.
+- [ ] Finish quiz and calculate score.
+- [ ] Support question type: true/false.
+- [ ] Support question type: single choice media (useful for snippets?).
+- [ ] Support question type: multiple choice.
+- [ ] Support question type: fill in the blank.
+- [ ] Load more quizzes.
